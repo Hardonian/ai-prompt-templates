@@ -142,6 +142,16 @@ A: Advanced templates for building AI agent workflows — task delegation, error
 
 ---
 
+## 📚 Guides & Tutorials
+
+Learn prompt engineering and AI workflows:
+
+- [ControlNet for Beginners](https://aiautomatedsystems.ca/blog/controlnet-tutorial-beginners-guide)
+- [Complete SDXL Guide 2026](https://aiautomatedsystems.ca/blog/complete-sdxl-guide-2026)
+- [AI Image Generation for E-Commerce](https://aiautomatedsystems.ca/blog/ai-image-generation-ecommerce-2026)
+
+More guides at [aiautomatedsystems.ca/blog](https://aiautomatedsystems.ca)
+
 ## 🏷️ Keywords
 
 prompt engineering templates, ChatGPT prompts, Claude prompts, AI prompt library, business AI prompts, coding prompts, writing prompts, AI automation templates, agent prompt templates, prompt engineering guide, AI productivity templates, LLM prompts, AI workflow templates, prompt design
